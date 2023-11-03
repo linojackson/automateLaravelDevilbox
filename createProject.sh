@@ -10,7 +10,7 @@ fi
 echo "================================================="
 echo "‖                                               ‖"
 echo "‖    CRIAÇÃO DE PROJETOS LARAVEL NO DEVILBOX    ‖"
-echo "‖               by linojacksondev               ‖"
+echo "‖                 by linojackson                ‖"
 echo "‖                                               ‖"
 echo "================================================="
 echo
