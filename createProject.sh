@@ -84,3 +84,11 @@ if [ $? != 0 ]; then
     echo "Ocorreu um erro na execução do script."
     exit 1
 fi
+
+echo  "---------------------------------"
+echo  "Seu projeto Laravel foi criado com sucesso!"
+echo  "Acesse $project_name.dvl.to no seu navegador."
+echo  "Para acessar o projeto via VSCode, utilize o comando:"
+echo  "code $PWD/data/www/$project_name"
+echo  "---------------------------------"
+echo  "Obrigado por utilizar o script!"
